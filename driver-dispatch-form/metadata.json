@@ -1,0 +1,5 @@
+{
+  "name": "Driver Dispatch Form",
+  "description": "A web application for drivers to fill out and submit their daily dispatch forms to the administration, replicating a paper-based log sheet.",
+  "requestFramePermissions": []
+}
